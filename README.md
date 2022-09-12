@@ -3,6 +3,14 @@ The Papers are categorized from theory to practice: Maximizing revenue for onlin
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Usman Akhtar] (Email: usman.akhtar@uj.edu.pl).
 
+## Overview
+* [Research Papers](#Research-Papers)
+* [Revenue Maximization](#Revenue-Maximization)
+* [Pricing Model](#Pricing-Model)
+* [Books](#Books)
+
+
+
 ## Research Papers
 
 #### Revenue Maximization
@@ -68,4 +76,21 @@ The sharing principle of these references here is for research. If any authors d
 
 12. **Driver-Rider Cost-Sharing Strategies and Equilibria in a Ridesharing Program**
 *Xiaolei Wang, Hai Yang, Daoli Zhu.* Transportation Science, 2018. [paper](https://doi.org/10.1287/trsc.2017.0801)
+
+## Books
+
+1. **The Vehicle Routing Problem**
+*Paolo Toth, Daniele Vigo.* SIAM Monographs on Discrete Mathematics and Applications, 2002. [book](https://epubs.siam.org/doi/book/10.1137/1.9780898718515)
+    
+2. **Vehicle Routing: Problems, Methods, and Applications**
+*Paolo Toth, Daniele Vigo.* SIAM Series on Optimization, 2014. [book](https://epubs.siam.org/doi/book/10.1137/1.9781611973594)
+    
+3. **Online Computation and Competitive Analysis**
+*Allan Borodin, Ran El-Yaniv.* Cambridge University Press 1998. [book](http://www.cs.technion.ac.il/~rani/book.html)
+
+4. **Online Algorithms: The State of the Art**
+*Amos Fiat, Gerhard J. Woeginger.* Springer, 1998. [book](https://link.springer.com/book/10.1007%2FBFb0029561)
+
+5. **Three Revolutions Chapter 3: Shared Mobility The Potential of Ridehailing and Pooling**
+*Susan Shaheen.* Springer, 2018. [book](https://link.springer.com/chapter/10.5822/978-1-61091-906-7_3) 
 
