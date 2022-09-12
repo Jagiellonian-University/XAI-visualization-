@@ -16,7 +16,7 @@ The sharing principle of these references here is for research. If any authors d
 #### Revenue Maximization
 
 1. **A Unified Approach to Route Planning for Shared Mobility**
-*Yongxin Tong, Yuxiang Zeng, Zimu Zhou, Lei Chen, Jieping Ye, Ke Xu.* PVLDB, 2018. [paper](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf) [code](https://github.com/BUAA-BDA/ridesharing-GreedyDP)
+*Yongxin Tong, Yuxiang Zeng, Zimu Zhou, Lei Chen, Jieping Ye, Ke Xu.* PVLDB, 2018. [paper](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf) 
 
 1. **Revenue Maximization in Online Dial-A-Ride**
 *Ananya Christman, Christine Chung, Nicholas Jaczko, Marina Milan, Anna Vasilchenko, Scott Westvold.* 17th Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems, 2017. [paper](https://doi.org/10.4230/OASIcs.ATMOS.2017.1)
