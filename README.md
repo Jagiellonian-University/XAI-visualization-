@@ -5,8 +5,8 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Overview
 * [Research Papers](#Research-Papers)
-* [Revenue Maximization](#Revenue-Maximization)
-* [Pricing Model](#Pricing-Model)
+** [Revenue Maximization](#Revenue-Maximization)
+** [Pricing Model](#Pricing-Model)
 * [Books](#Books)
 
 
