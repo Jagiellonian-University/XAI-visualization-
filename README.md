@@ -1,4 +1,4 @@
-#  Paper Collections on ride sharing with focus on Revenue Maximization 
+#  Paper Collections of shared Mobility with focus on Revenue Maximization 
 The Papers are categorized from theory to practice: Maximizing revenue for online/offline ride sharing mobility platform. 
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Usman Akhtar] (Email: usman.akhtar@uj.edu.pl).
