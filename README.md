@@ -1,5 +1,5 @@
-#  Paper Collections of shared Mobility with focus on Revenue Maximization 
-The Papers are categorized from theory to practice: Maximizing revenue for online/offline ride sharing mobility platform. 
+#  Paper Collections on advanced methods for visualization of XAI.
+The baseline approach is LUX that uses the decision tree visualization. We have listed the visualization techniques that are common in XAI field.. 
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Usman Akhtar] (Email: usman.akhtar@uj.edu.pl).
 
