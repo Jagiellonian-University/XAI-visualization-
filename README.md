@@ -67,7 +67,7 @@ These advanced visualization methods play a crucial role in improving the transp
 
 ## Argumentative XAI
 
-1. **The Vehicle Routing Problem**
-*Paolo Toth, Daniele Vigo.* SIAM Monographs on Discrete Mathematics and Applications, 2002. [book](https://epubs.siam.org/doi/book/10.1137/1.9780898718515)
+1. **A Novel Human-Centred Evaluation Approach and an Argument-Based Method for Explainable Artificial Intelligence**
+*Vilone, Giulia, and Luca Longo* IFIP International Conference on Artificial Intelligence Applications and Innovations, 2002. [book](https://link.springer.com/chapter/10.1007/978-3-031-08333-4_36)
     
 
