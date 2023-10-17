@@ -61,9 +61,8 @@ These advanced visualization methods play a crucial role in improving the transp
 
 ### Human in the loop (XAI/AI)
 
-1. **Taxi-sharing: Parameterized complexity and approximability of the dial-a-ride problem with money as an incentive**
-*Dimitri Watel, Alain Faye.* Theoretical Computer Science, 2018. [paper](https://doi.org/10.1016/j.tcs.2018.06.006)
-
+1. **A comprehensive review on resolving ambiguities in natural language processing**
+*Yadav, Apurwa, Aarshil Patel, and Manan Shah* AI Open, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666651021000127)
 
 
 ## Argumentative XAI
