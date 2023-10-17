@@ -65,7 +65,7 @@ These advanced visualization methods play a crucial role in improving the transp
 *Yadav, Apurwa, Aarshil Patel, and Manan Shah* AI Open, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S2666651021000127)
 
 
-## Argumentative XAI
+### Argumentative XAI
 
 1. **A Novel Human-Centred Evaluation Approach and an Argument-Based Method for Explainable Artificial Intelligence**
 *Vilone, Giulia, and Luca Longo* IFIP International Conference on Artificial Intelligence Applications and Innovations, 2002. [book](https://link.springer.com/chapter/10.1007/978-3-031-08333-4_36)
