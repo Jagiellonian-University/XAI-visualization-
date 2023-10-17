@@ -55,7 +55,7 @@ These advanced visualization methods play a crucial role in improving the transp
 1. **A survey of visual analytics for Explainable Artificial Intelligence methods**
 *Alicioglu, Gulsum, and Bo Sun.* Computers & Graphics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0097849321001886) 
 
-1. **Comparative evaluation of contribution-value plots for machine learning understanding**
+2. **Comparative evaluation of contribution-value plots for machine learning understanding**
 *Collaris, Dennis, and Jarke J. van Wijk.* Journal of Visualization, 2022. [paper](https://doi.org/10.4230/OASIcs.ATMOS.2017.1)
 
 
