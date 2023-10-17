@@ -52,11 +52,11 @@ These advanced visualization methods play a crucial role in improving the transp
 
 #### Visual XAI
 
-1. **A Unified Approach to Route Planning for Shared Mobility**
-*Yongxin Tong, Yuxiang Zeng, Zimu Zhou, Lei Chen, Jieping Ye, Ke Xu.* PVLDB, 2018. [paper](http://www.vldb.org/pvldb/vol11/p1633-tong.pdf) 
+1. **A survey of visual analytics for Explainable Artificial Intelligence methods**
+*Alicioglu, Gulsum, and Bo Sun.* Computers & Graphics, 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0097849321001886) 
 
-1. **Revenue Maximization in Online Dial-A-Ride**
-*Ananya Christman, Christine Chung, Nicholas Jaczko, Marina Milan, Anna Vasilchenko, Scott Westvold.* 17th Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems, 2017. [paper](https://doi.org/10.4230/OASIcs.ATMOS.2017.1)
+1. **Comparative evaluation of contribution-value plots for machine learning understanding**
+*Collaris, Dennis, and Jarke J. van Wijk.* Journal of Visualization, 2022. [paper](https://doi.org/10.4230/OASIcs.ATMOS.2017.1)
 
 
 ### Human in the loop (XAI/AI)
